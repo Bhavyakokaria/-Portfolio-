@@ -1,11 +1,11 @@
-# 🌸 Portfolio — Alexandra Rose
-### F1 × Taylor Swift Aesthetic · Pink-Themed · Bold & Modern
+# Portfolio — Bhavya kokaria
+### F1 × Taylor Swift Aesthetic.
 
 ---
 
 ## ✨ About
 
-A personal portfolio website with a bold, high-contrast **pink** aesthetic that fuses:
+A personal portfolio website with a bold, high-contrast **pink** (obviously) aesthetic that fuses:
 - **Formula 1** — speed lines, racing typography, sharp clip-path angles, precision
 - **Taylor Swift** — elegance, emotional storytelling, italic serif display text, warmth
 
